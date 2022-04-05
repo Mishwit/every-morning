@@ -142,6 +142,10 @@ _пример текста с HTML-тэгом em_
 и
 <mishwit@inbox.ru>
 
+# Видео в статье
+
+[![Видео](https://emojio.ru/images/apple-b/1f440.png "Видео")](https://www.youtube.com/watch?v=fC7oUOUEEi4)
+
 ### Таблицы
 
 | Первый столб | Второй столб |
